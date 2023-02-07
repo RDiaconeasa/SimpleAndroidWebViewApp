@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Debug webview app</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Fill launch inputs</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="launch_url_edit_text_label">Launch URL</string>
+    <string name="launch_operator_id_edit_text_label">Operator ID</string>
+    <string name="launch_token_edit_text_label">Token</string>
+    <string name="launch_button_label">Launch WebView</string>
+</resources>
